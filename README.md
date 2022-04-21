@@ -1,1 +1,1 @@
-Simple checkers game made for Object Oriented Programming
+Simple checkers game made for Object Oriented Programming class
